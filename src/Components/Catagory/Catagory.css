@@ -1,0 +1,18 @@
+.wirtten{
+    text-align: center;
+}
+
+.wirtten h1{
+    font-weight: bold;
+}
+
+.Cart{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+
+
+

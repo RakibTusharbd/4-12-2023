@@ -1,0 +1,15 @@
+.fotter{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.ik img{
+    width: 30px;
+    margin-right: 15px;
+}
+
+

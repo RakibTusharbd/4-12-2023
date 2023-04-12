@@ -1,0 +1,28 @@
+span.job{
+    color: purple;
+}
+
+.man-infromation h1{
+
+    line-height: 60px;
+    font-weight: 700;
+    font-size: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.man-container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #D1D1D1;
+
+}
+
+.man-pic img{
+    width: 560px;
+}
+
+
+

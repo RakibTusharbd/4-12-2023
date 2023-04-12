@@ -1,0 +1,14 @@
+.product-container{
+    text-align: center;
+}
+
+.product-container h2{
+    font-weight: bold;
+}
+
+.last-product{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 25px;
+    margin: 0 220px;
+}
